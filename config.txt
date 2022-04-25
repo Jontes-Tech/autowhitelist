@@ -1,0 +1,7 @@
+[rcon]
+HOST=replaceme
+PORT=replaceme
+PASSWORD=replaceme
+
+[discord]
+BOT_TOKEN=replaceme

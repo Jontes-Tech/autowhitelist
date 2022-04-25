@@ -1,0 +1,2 @@
+# AutoWhitelist by Jonte
+Autowhitelist is a Python server application that connects a Discord Bot to an RCon server. This allows the command `whitelist username` to whitelist the user `username`.
